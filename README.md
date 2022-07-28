@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working with RPA
 - 🌱 I’m currently learning Python
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 - 😄 Pronouns: ele/dele
 
 <div align="center">
