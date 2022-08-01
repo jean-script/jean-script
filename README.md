@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with RPA
 - 🌱 I’m currently learning Python and development full stack
 - 💬 Ask me about anything
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/it is
 
 <div align="center">
   <a href="https://github.com/jean-script">
