@@ -19,7 +19,7 @@
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jean-Django" height="30" width="30" src="https://styles.redditmedia.com/t5_2qh4v/styles/communityIcon_r1rcce3bp1241.png">
   <img align="center" alt="Jean-Mysql" height="30" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
-  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEJFskqQmAgJA/profile-displayphoto-shrink_800_800/0/1643051862241?e=1666828800&v=beta&t=7qYyK8V8yR62bRHcg1XeZ2rrZgVTZcMPhFAx_0u4G1s">
+  <img align="right" alt="Jean-pic" height="150" style="border-radius:30px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEJFskqQmAgJA/profile-displayphoto-shrink_800_800/0/1643051862241?e=1666828800&v=beta&t=7qYyK8V8yR62bRHcg1XeZ2rrZgVTZcMPhFAx_0u4G1s">
 </div>
   
   ##
