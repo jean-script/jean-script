@@ -20,7 +20,8 @@
   <img align="center" alt="Jean-Django" height="30" width="30" src="https://styles.redditmedia.com/t5_2qh4v/styles/communityIcon_r1rcce3bp1241.png">
   <img align="center" alt="Jean-Mysql" height="30" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
   <img align="center" alt="Jean-robot_framework" height="50" width="50" src="https://icons-for-free.com/download-icon-vscode+icons+type+robotframework-1324451474818399143_256.png">
-  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEJFskqQmAgJA/profile-displayphoto-shrink_800_800/0/1643051862241?e=1666828800&v=beta&t=7qYyK8V8yR62bRHcg1XeZ2rrZgVTZcMPhFAx_0u4G1s">
+  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/79288480/199126301-3fcff5ba-e52f-4157-bf8c-dd9ac72724ce.png)
+">
 </div>
   
   ##
