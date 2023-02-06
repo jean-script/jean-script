@@ -18,6 +18,7 @@
   <img align="center" alt="Jean-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jean-NodeJS" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif&w=256">
+  <img align="center" alt="Jean-Scss" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/sass-13-1175092.png?f=avif&w=256">
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jean-Django" height="30" width="30" src="https://parakeetsystems.com/files/file_type_django_icon_130645.png">
