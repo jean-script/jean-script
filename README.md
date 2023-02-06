@@ -19,7 +19,7 @@
   <img align="center" alt="Jean-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jean-Django" height="30" width="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fparakeetsystems.com%2Fweb-development&psig=AOvVaw3bRBbx-6MoIOFKclMwhfhK&ust=1675795188440000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIivjdnFgf0CFQAAAAAdAAAAABAE">
+  <img align="center" alt="Jean-Django" height="30" width="30" src="https://parakeetsystems.com/files/file_type_django_icon_130645.png">
   <img align="center" alt="Jean-Mysql" height="30" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
   <img align="center" alt="Jean-robot_framework" height="40" width="40" src="https://icons-for-free.com/download-icon-vscode+icons+type+robotframework-1324451474818399143_256.png">
   
