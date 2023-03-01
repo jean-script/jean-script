@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jean Carlos
 
 - 🔭 I’m currently working with RPA
-- 🌱 I’m currently learning Python, html, css, JavaScript and Django;
+- 🌱 I’m currently learning ReactJS, NodeJS, JavaScript e TypeScript;
 - 💬 Ask me about anything
 - 😄 Pronouns: he/dele
 
