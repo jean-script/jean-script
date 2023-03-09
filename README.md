@@ -22,7 +22,7 @@
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jean-Django" height="30" width="30" src="https://parakeetsystems.com/files/file_type_django_icon_130645.png">
-  <img align="center" alt="Jean-Mysql" height="30" width="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
+  <img align="center" alt="Jean-Mysql" height="30" width="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
   <img align="center" alt="Jean-robot_framework" height="40" width="40" src="https://icons-for-free.com/download-icon-vscode+icons+type+robotframework-1324451474818399143_256.png">
   
   <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://cdn2.gnarususercontent.com.br/1/767392/303fb71c-c76e-4803-835d-f2d916f1c964.png?width=100&height=100&aspect_ratio=1:1">
