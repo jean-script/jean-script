@@ -31,6 +31,7 @@
   <img align="center" alt="Jean-Mysql" height="30" width="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
   
 </div>
+  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://cdn2.gnarususercontent.com.br/1/767392/303fb71c-c76e-4803-835d-f2d916f1c964.png?width=100&height=100&aspect_ratio=1:1">
  <hr/>
    <h3>Estudando:</h3>
 <div style="display: inline_block"><br>
@@ -53,5 +54,5 @@
   <a href="https://www.linkedin.com/in/jean-carlos-aires-83a3821a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jean-script/jean-script/blob/output/github-contribution-grid-snake.svg)
- <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://cdn2.gnarususercontent.com.br/1/767392/303fb71c-c76e-4803-835d-f2d916f1c964.png?width=100&height=100&aspect_ratio=1:1">
+ 
 </div>
