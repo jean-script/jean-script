@@ -1,5 +1,11 @@
 ## Olá! Eu sou o Jean Carlos
 
+<div align="center">
+  Tenho 22 anos e possuo quase 2 anos de experiência em programação, atualmente estou cursando a 
+  graduação de Analise e desenvolvimento de sistemas na Universidade nove de Julho e trabalhando como 
+  Desenvolvedor RPA na empresa Practia Brasil.
+</div>
+
 - 🔭 I’m currently working with RPA
 - 🌱 I’m currently learning ReactJS, NodeJS, JavaScript e TypeScript;
 - 💬 Ask me about anything
