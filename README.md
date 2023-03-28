@@ -5,6 +5,11 @@
   graduação de Analise e desenvolvimento de sistemas na Universidade nove de Julho e trabalhando como 
   Desenvolvedor RPA na empresa Practia Brasil.
 </div>
+<hr/>
+<div align="justify">
+  Tenho domínio das tecnologias HTML, CSS e JavaScript nas quais desenvolvi alguns projetos. 
+  Meu objetivo atual é atuar como desenvolvedor Front-end em uma empresa para torna solido meus conhecimentos e adquirir novos.
+</div>
 
 - 🔭 I’m currently working with RPA
 - 🌱 I’m currently learning ReactJS, NodeJS, JavaScript e TypeScript;
