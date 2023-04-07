@@ -1,11 +1,5 @@
 ## Quem sou eu
 
-<style>
-    .Teste{
-        color:#fff;
-    }
-</style>
-
 <div align="justify" class="Teste">
   Olá meu nome é Jean, tenho 22 anos e possuo quase 2 anos de experiência em programação, 
   atualmente estou cursando a graduação de Analise e desenvolvimento de 
