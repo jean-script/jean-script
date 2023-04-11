@@ -10,6 +10,7 @@
   Meu objetivo atual é atuar como desenvolvedor Front-end em uma empresa para torna solido meus conhecimentos e adquirir novos.
 </div>
 <br/>
+
 <h1>📊 <strong>GitHub Stats:</strong></h1>
 <br/>
 <div align="center">
@@ -22,7 +23,7 @@
 </div>
 <hr/>
 
-  <h3>Conhecimento em:</h3>
+<h3>💻 <strong>Tech Stack:</strong></h3>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -50,7 +51,7 @@
 </div>
   
   ##
- <h3>Contatos:</h3>
+ <h3>## 🌐 <strong>Socials:</strong></h3>
 <div> 
   <a href="https://instagram.com/jean.aires21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Jean Carlos#5053" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
