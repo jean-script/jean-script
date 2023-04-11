@@ -15,6 +15,7 @@
   <a href="https://github.com/jean-script">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-script&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-script&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jean-script&theme=blueberry&hide_border=false"/>
 </div>
 </div>
 <hr/>
