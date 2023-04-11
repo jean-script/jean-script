@@ -7,7 +7,7 @@
 </div><br/>
 <div align="justify">
   Tenho domínio das tecnologias HTML, CSS e JavaScript nas quais desenvolvi alguns projetos. 
-  Meu objetivo atual é atuar como desenvolvedor Front-end em uma empresa para torna solido meus conhecimentos e adquirir novos.
+  Meu objetivo atual é atuar como desenvolvedor Front-end em uma empresa para torna solido meus conhecimentos e adquirir novos. Também competente em resolução de problemas, dedicação, boa comunicação, facilidade no aprendizado e proativo.
 </div>
 <br/>
 
