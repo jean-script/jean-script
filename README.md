@@ -10,7 +10,7 @@
   Meu objetivo atual é atuar como desenvolvedor Front-end em uma empresa para torna solido meus conhecimentos e adquirir novos.
 </div>
 <br/>
-# 📊 GitHub Stats:
+<h1>📊 <strong>GitHub Stats:</strong></h1>
 <br/>
 <div align="center">
   <a href="https://github.com/jean-script">
