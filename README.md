@@ -18,7 +18,7 @@
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jean-NextJs" height="40" width="40" src="https://icons8.com.br/icon/r2OarXWQc7B6/next.js">
+  <img align="center" alt="Jean-NextJs" height="40" width="40" src="https://img.icons8.com/fluency-systems-filled/256/nextjs.png">
   <img align="center" alt="Jean-Mysql" height="30" width="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
   <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jean-Django" height="30" width="30" src="https://parakeetsystems.com/files/file_type_django_icon_130645.png">
