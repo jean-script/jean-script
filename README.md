@@ -32,7 +32,7 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Jean-Scss" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/sass-13-1175092.png?f=avif&w=256">  
-  <img align="center" alt="Jean-tailwindCss" height="66" width="100" src="https://logospng.org/download/tailwind-css/tailwind-css-4096.png">  
+  <img align="center" alt="Jean-tailwindCss" height="35" width="100" src="https://logospng.org/download/tailwind-css/tailwind-css-4096.png">  
 </div>
   
   ##
