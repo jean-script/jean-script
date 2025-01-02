@@ -20,23 +20,18 @@
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jean-NextJs" height="30" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png">
   <img align="center" alt="Jean-Mysql" height="30" width="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
-  <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jean-Django" height="30" width="30" src="https://parakeetsystems.com/files/file_type_django_icon_130645.png">
   
   <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://cdn2.gnarususercontent.com.br/1/767392/303fb71c-c76e-4803-835d-f2d916f1c964.png?width=100&height=100&aspect_ratio=1:1">
+  <img align="center" alt="Jean-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+  <img align="center" alt="Jean-NodeJS" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif&w=256">
 </div>
   
  <hr/>
    <h3>Estudando:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jean-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-  <img align="center" alt="Jean-NodeJS" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif&w=256">
-  <img align="center" alt="Jean-Scss" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/sass-13-1175092.png?f=avif&w=256">
- 
-  <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  
+
+  <img align="center" alt="Jean-Scss" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/sass-13-1175092.png?f=avif&w=256">  
 </div>
   
   ##
