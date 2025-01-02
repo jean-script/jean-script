@@ -24,7 +24,7 @@
   <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://cdn2.gnarususercontent.com.br/1/767392/303fb71c-c76e-4803-835d-f2d916f1c964.png?width=100&height=100&aspect_ratio=1:1">
   <img align="center" alt="Jean-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
-  <img align="center" alt="Jean-NodeJS" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif">
+  <img align="center" alt="Jean-NodeJS" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif">
 </div>
   
  <hr/>
