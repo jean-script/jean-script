@@ -1,13 +1,18 @@
 # 💫 About Me:
 
 <div align="justify" class="Teste">
-  Olá meu nome é Jean, tenho 23 anos e possuo quase 3 anos de experiência em programação, 
+  Olá meu nome é Jean, tenho 23 anos e possuo quase 4 anos de experiência em programação, 
   atualmente estou cursando a graduação de Analise e desenvolvimento de 
-  sistemas na Universidade nove de Julho e trabalhando como Desenvolvedor RPA na empresa Practia Brasil.
+  sistemas na Universidade nove de Julho e trabalhando como Desenvolvedor Flutter na empresa Visual mix.
 </div><br/>
 <div align="justify">
-  Tenho domínio das tecnologias HTML, CSS e JavaScript nas quais desenvolvi alguns projetos. 
-  Meu objetivo atual é atuar como desenvolvedor Front-end em uma empresa para torna solido meus conhecimentos e adquirir novos. Também competente em resolução de problemas, dedicação, boa comunicação, facilidade no aprendizado e proativo.
+ Desenvolvedor Flutter especialista em criação e manutenção de sistemas multiplataformas e aplicativos móveis nativos para iOS e Android.
+
+• Experiência na utilização do framework Flutter, com domínio da linguagem Dart, para entregar soluções eficientes e personalizadas.
+
+• Proficiente na arquitetura Clean Architecture, garantindo a organização e escalabilidade do código, e no gerenciamento de estado reativo com GetX, proporcionando interfaces de usuário fluidas e responsivas.
+
+• Habilidades em integração de APIs, otimização de desempenho e testes unitários para garantir a qualidade e robustez dos aplicativos.
 </div>
 <br/>
 
