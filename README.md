@@ -59,8 +59,7 @@ Sou apaixonado por construir aplicações **escaláveis**, **performáticas** e 
 ## 📚 Currently Studying
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sass" height="35" src="https://cdn.iconscout.com/icon/free/png-512/sass-13-1175092.png"/>
-  <img align="center" alt="TailwindCSS" height="35" src="https://logospng.org/download/tailwind-css/tailwind-css-4096.png"/>
+  Estuando inglês na Fluencypass
 </div>
 
 ---
