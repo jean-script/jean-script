@@ -1,66 +1,95 @@
-# 💫 About Me:
+# 💫 About Me
 
-<div align="justify" class="Teste">
-  Olá meu nome é Jean, tenho 23 anos e possuo quase 4 anos de experiência em programação, 
-  atualmente estou cursando a graduação de Analise e desenvolvimento de 
-  sistemas na Universidade nove de Julho e trabalhando como Desenvolvedor Flutter na empresa Visual mix.
-</div><br/>
-<div align="justify">
- Desenvolvedor Flutter especialista em criação e manutenção de sistemas multiplataformas e aplicativos móveis nativos para iOS e Android.
+Olá! 👋  
+Meu nome é **Jean Carlos**, sou **Desenvolvedor de Software** com foco em **Flutter e Android**, possuo quase **4 anos de experiência em programação** e sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade Nove de Julho**.
 
-• Experiência na utilização do framework Flutter, com domínio da linguagem Dart, para entregar soluções eficientes e personalizadas.
+Atualmente trabalho como **Desenvolvedor Flutter** na **Visual Mix Tecnologia para o Varejo**, atuando no desenvolvimento, manutenção e evolução de aplicações multiplataforma e mobile nativas, com forte integração entre Flutter e código nativo Android.
 
-• Proficiente na arquitetura Clean Architecture, garantindo a organização e escalabilidade do código, e no gerenciamento de estado reativo com GetX, proporcionando interfaces de usuário fluidas e responsivas.
+Sou apaixonado por construir aplicações **escaláveis**, **performáticas** e bem estruturadas, especialmente em projetos que exigem integrações nativas, hardware e soluções fora do padrão.
 
-• Habilidades em integração de APIs, otimização de desempenho e testes unitários para garantir a qualidade e robustez dos aplicativos.
-</div>
-<br/>
+---
 
-<h1>💻 <strong>Tech Stack:</strong></h1>
-  
+## 🚀 What I Do
+
+- 📱 Desenvolvimento de aplicações **Flutter** para **Android, iOS, Web e Desktop**
+- 🧠 Arquitetura de apps com **Clean Architecture**
+- ⚙️ Gerenciamento de estado com **GetX**, **Bloc/Cubit** e **MobX**
+- 🔌 Integrações nativas Android (**Java/Kotlin**)
+- 🧩 Criação e manutenção de **plugins Flutter**
+- 🔄 Comunicação via **MethodChannel** e **EventChannel**
+- 🖨️ Integração com **hardware e serviços específicos** (ex: impressoras, scanners, SDKs nativos)
+- 🌐 Experiência complementar com **React** e **Next.js**
+- 🔗 Consumo e integração com **APIs REST**
+- 🧪 Testes unitários e foco em qualidade de código
+- 🧭 Metodologias ágeis (**Scrum** e **Kanban**)
+
+---
+
+## 💻 Tech Stack
+
+### Mobile & Multiplatform
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jean-NextJs" height="30" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png">
-  <img align="center" alt="Jean-Mysql" height="30" width="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png">
-  
-  <img align="right" alt="Jean-pic" height="150" style="border-radius:50px;" src="https://cdn2.gnarususercontent.com.br/1/767392/303fb71c-c76e-4803-835d-f2d916f1c964.png?width=100&height=100&aspect_ratio=1:1">
-  <img align="center" alt="Jean-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-  <img align="center" alt="Jean-NodeJS" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png?f=avif">
+  <img align="center" alt="Flutter" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+  <img align="center" alt="Dart" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>
+  <img align="center" alt="Android" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"/>
+  <img align="center" alt="Kotlin" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+  <img align="center" alt="Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </div>
-  
- <hr/>
-   <h3>Estudando:</h3>
+
+### Frontend Web
 <div style="display: inline_block"><br>
-
-  <img align="center" alt="Jean-Scss" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-512/sass-13-1175092.png?f=avif&w=256">  
-  <img align="center" alt="Jean-tailwindCss" height="35" width="60"  object-fit="cover" src="https://logospng.org/download/tailwind-css/tailwind-css-4096.png">  
+  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
+  <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="Next.js" height="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png"/>
 </div>
-  
-  ##
- <h1>## 🌐 <strong>Socials:</strong></h1>
-<div> 
-  <a href="https://instagram.com/jean.aires21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/JeanCarlos#5053" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jean.aires21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jean-carlos-aires-83a3821a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
-<h1>📊 <strong>GitHub Stats:</strong></h1>
-<br/>
+### Backend & Tools
+<div style="display: inline_block"><br>
+  <img align="center" alt="NodeJS" height="35" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"/>
+  <img align="center" alt="MySQL" height="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png"/>
+  <img align="center" alt="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img align="center" alt="Docker" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+</div>
+
+---
+
+## 📚 Currently Studying
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Sass" height="35" src="https://cdn.iconscout.com/icon/free/png-512/sass-13-1175092.png"/>
+  <img align="center" alt="TailwindCSS" height="35" src="https://logospng.org/download/tailwind-css/tailwind-css-4096.png"/>
+</div>
+
+---
+
+## 🌐 Socials
+
+<div>
+  <a href="https://instagram.com/jean.aires21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:jean.aires21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jean-carlos-aires-83a3821a2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/jean-script">
-  <img height="210em" src="https://github-readme-streak-stats.herokuapp.com/?user=jean-script&theme=blueberry&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jean-script&theme=blueberry"/>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-script&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-script&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jean-script&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jean-script&layout=compact&theme=dracula"/>
 </div>
-</div>
-<hr/>
- 
-  ![Snake animation](https://github.com/jean-script/jean-script/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---
+
+![Snake animation](https://github.com/jean-script/jean-script/blob/output/github-contribution-grid-snake.svg)
